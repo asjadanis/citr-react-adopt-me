@@ -28,8 +28,6 @@ const Details = () => {
       </div>
     </div>
   );
-
-  return <h2>{id}</h2>;
 };
 
 export default Details;
